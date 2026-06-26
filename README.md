@@ -4,7 +4,7 @@
 
 ---
 
-### 📋 Sobre Dynamic
+### 📋 Sobre
 
 Engenheiro de Software focado no ecossistema .NET e no desenho de arquiteturas de sistemas escaláveis. Experiência no desenvolvimento e evolução de APIs, migração de sistemas monolíticos e implementação de microsserviços para grandes players do mercado.
 
